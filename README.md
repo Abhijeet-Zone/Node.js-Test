@@ -161,12 +161,6 @@ Node.js Intern Assignment/
 ├── package.json
 ├── package-lock.json
 ├── README.md                        # This file
-├── MIGRATION-GUIDE.md
-├── PROJECT-SUMMARY.md
-├── FEATURES.md
-├── QUICKSTART.md
-├── UPDATED.md
-└── USER-ISOLATION-FIX.md / DASHBOARD-REAL-DATA-FIX.md
 ```
 
 ---
