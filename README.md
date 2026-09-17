@@ -345,7 +345,3 @@ The sidebar exposes **Purchases, Sales, Expenses, Quotations, and Adjustment** p
 
 ---
 
-## 👤 Author
-
-**Abhijeet Acharya**
-Built as a Node.js Intern Assignment — a full-stack inventory management REST API and dashboard using Node.js, Express, MongoDB, and vanilla JavaScript.
