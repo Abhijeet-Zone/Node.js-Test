@@ -51,32 +51,32 @@ All data is scoped to the logged-in user via `userId` on every `Product` and `Tr
 ### 1. Sign In
 Split-screen login with product highlights on the left and a credentials form on the right.
 
-![Login screen](docs/screenshots/login.png)
+![Login screen](Screenshot 2026-09-17 165246.png)
 
 ### 2. Create Account
 New users register with their name, email, and a password (min. 6 characters, confirmed twice).
 
-![Create account screen](docs/screenshots/register.png)
+![Create account screen](Screenshot 2026-09-17 165312.png)
 
 ### 3. Dashboard
 Real-time KPIs (Revenue, Purchases, Sales Return, Profit) plus a monthly Sales vs. Purchases bar chart and a Top Selling Products donut chart.
 
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](Screenshot 2026-09-17 165408.png)
 
 ### 4. Products — Empty State
 A fresh account starts with zero products and a friendly empty state prompting the first product to be added.
 
-![Empty product inventory](docs/screenshots/products-empty.png)
+![Empty product inventory](Screenshot 2026-09-17 165423.png)
 
 ### 5. Products — Populated
 Once a product is created, the inventory table shows price, available stock, status (`In Stock` / `Low Stock`), creation date, and quick actions (sell, restock, history).
 
-![Product inventory with a product](docs/screenshots/products-list.png)
+![Product inventory with a product](Screenshot 2026-09-17 165447.png)
 
 ### 6. My Profile
 Account details (name, email, role, member-since date), an activity summary (products added, total sales, total purchases, last login), and account actions.
 
-![Profile page](docs/screenshots/profile.png)
+![Profile page](Screenshot 2026-09-17 165537.png)
 
 ---
 
