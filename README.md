@@ -10,26 +10,6 @@ A full-stack **Inventory Management System** built with **Node.js, Express, and 
 
 ---
 
-## Table of Contents
-
-1. [Overview](#-overview)
-2. [Features](#-features)
-3. [Screenshots](#-screenshots)
-4. [Tech Stack](#-tech-stack)
-5. [Project Structure](#-project-structure)
-6. [Data Models](#-data-models)
-7. [API Reference](#-api-reference)
-8. [Getting Started](#-getting-started)
-9. [Environment Variables](#-environment-variables)
-10. [Application Flow](#-application-flow)
-11. [Security](#-security)
-12. [Error Handling](#-error-handling)
-13. [Known Limitations / Roadmap](#-known-limitations--roadmap)
-14. [Additional Docs](#-additional-docs-in-this-repo)
-15. [Author](#-author)
-
----
-
 ## 🌟 Overview
 
 This project is a REST API + web dashboard for tracking product inventory. A user registers, logs in, and can then:
